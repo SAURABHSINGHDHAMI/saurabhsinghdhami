@@ -2,3 +2,4 @@
 
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/saurabhsinghdhami/saurabhsinghdhami/blob/output/github-contribution-grid-snake.gif)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=saurabhsinghdhami.saurabhsinghdhami)
