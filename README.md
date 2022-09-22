@@ -32,5 +32,5 @@
   <img width="250" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 </p>
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saurabhsinghdhami.saurabhsinghdhami)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
