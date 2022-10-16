@@ -7,7 +7,7 @@
 [![GitHub: SAURABH SINGH DHAMI](https://img.shields.io/github/followers/SAURABHSINGHDHAMI?label=follow&style=social)](https://github.com/SAURABHSINGHDHAMI)
 
 
-<h4 align="center"><samp> I am a 4th-year Student at The Shree Guru Gobind Singh Tricentenary University in Gurgaon, Haryana, pursuing a Bachelors in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and Open Source :octocat:. I love to learn and contribute in any and every possible way.</samp></h4>
+<h4 align="center"><samp> I am a 4th-year Student at The Shree Guru Gobind Singh Tricentenary University in Gurgaon, Haryana, pursuing a Bachelors in Computer Science, who is enthusiastic about Data Science :bar_chart:, Pythonic programming :snake:, and Open Source :octocat:. I love to learn and contribute in any and every possible way.</samp></h4>
 
 
 <p align="center">
