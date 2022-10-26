@@ -10,27 +10,6 @@
 <h4 align="center"><samp> I am a 4th-year Student at The Shree Guru Gobind Singh Tricentenary University in Gurgaon, Haryana, pursuing a Bachelors in Computer Science, who is enthusiastic about Data Science :bar_chart:, Pythonic programming :snake:, and Open Source :octocat:. I love to learn and contribute in any and every possible way.</samp></h4>
 
 
-<p align="center">
-        <!-- Programming Languages -->
-        <!-- Python -->
-        <a href="https://github.com/SAURABHSINGHDHAMI?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen">
-        </a>
-        <!-- Java -->
-        <a href="https://github.com/SAURABHSINGHDHAMI?tab=repositories" target="_blank"><img alt="Java"
-                        src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-        </a>
-        <!-- Vscode -->
-        <a href="https://github.com/SAURABHSINGHDHAMI?tab=repositories" target="_blank"><img alt="Vscode"
-                        src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white">
-        </a>
-        <!-- Git -->
-        <a href="https://github.com/SAURABHSINGHDHAMI?tab=repositories" target="_blank"><img alt="Git"
-                        src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white">
-        </a>
-</p>
-
-
 | <a href="https://github.com/SAURABHSINGHDHAMI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SAURABHSINGHDHAMI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SAURABH's github stats" /></a> | <a href="https://github.com/SAURABHSINGHDHAMI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAURABHSINGHDHAMI&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
