@@ -31,11 +31,6 @@
 </p>
 
 
-<p align="center">
-  <img width="250" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
-</p>
-
-
 | <a href="https://github.com/SAURABHSINGHDHAMI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SAURABHSINGHDHAMI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SAURABH's github stats" /></a> | <a href="https://github.com/SAURABHSINGHDHAMI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAURABHSINGHDHAMI&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
