@@ -16,7 +16,7 @@
 
 <h4><samp> 🎓 I’m an open-source enthusiast pursuing B.Tech. at SGT University in Gurgaon, Haryana in Computer Science & Engineering(2023).</br>
 👨‍💻 I am passionate about Data Science, Web Development, DevOps & I enjoy learning new things.<br>
-🌱 I’m currently learning Machine Learning and improving my grip on Data Structures and Algorithms.<br>
+🌱 I’m currently learning Web Development and improving my grip on Data Structures and Algorithms.<br>
 🙋‍♂️ I'm regularly active on Twitter and Linkedin, you may connect there if interested.<br></samp></h4>
 
 ### Languages:
