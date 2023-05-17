@@ -25,9 +25,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
-| <a href="https://github.com/Zart-Drag/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Zart-Drag&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SAURABH's github stats" /></a> | <a href="https://github.com/Zart-Drag/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zart-Drag&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/SAURABHSINGHDHAMI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SAURABHSINGHDHAMI&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="SAURABH's github stats" /></a> | <a href="https://github.com/SAURABHSINGHDHAMI/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAURABHSINGHDHAMI&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Zart-Drag)
+![Visitor Badge](https://komarev.com/ghpvc/?username=SAURABHSINGHDHAMI)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
