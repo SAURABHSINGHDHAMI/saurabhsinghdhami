@@ -14,10 +14,12 @@
 
 ### About Me 🚀
 
-<h4><samp> 🎓 I’m an open-source enthusiast pursuing B.Tech. at SGT University in Gurgaon, Haryana in Computer Science & Engineering(2023).</br>
-👨‍💻 I am passionate about Data Science, Web Development, DevOps & I enjoy learning new things.<br>
-🌱 I’m currently learning Web Development and improving my grip on Data Structures and Algorithms.<br>
-🙋‍♂️ I'm regularly active on Twitter and Linkedin, you may connect there if interested.<br></samp></h4>
+<h4><samp> 🔭 I’m currently pursuing B.Tech. in Computer Science</br>
+🌱 I’m currently learning Backend Development</br>
+👯 I’m looking to collaborate on Backend Development</br>
+💬 Ask me about Python</br>
+📫 How to reach me: saurabhsinghdhami136984@gmail.com</br>
+😄 Happy Learner</br>
 
 ### Languages:
 
